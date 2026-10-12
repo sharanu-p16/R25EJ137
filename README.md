@@ -3,3 +3,5 @@ Hi, I'm Sharanabasappagouda, a Computer Science engineering student at REVA Univ
 Learning DSA and C++
 
 Interested in CP
+
+Goal: Improve in competitive programming 
