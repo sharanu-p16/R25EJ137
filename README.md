@@ -5,3 +5,7 @@ Learning DSA and C++
 Interested in CP
 
 Goal: Improve in competitive programming 
+
+## Projects
+
+Planning to build a competitive programming problem tracker in C++ to log solved problems.
